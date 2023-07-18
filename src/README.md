@@ -8,5 +8,4 @@ In the pages that follow, you'll learn about the benefits of lifelong learning, 
 
 Whether you're looking to develop new skills, explore new interests, or simply broaden your horizons, "The Art of Becoming" offers valuable insights and strategies for lifelong learning and personal growth. Let's embark on this journey of discovery together!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.

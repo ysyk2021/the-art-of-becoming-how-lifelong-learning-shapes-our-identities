@@ -1,0 +1,1 @@
+for the book "the art of becoming how lifelong learning shapes our identities", write a chapter: "techniques for using learning to shape your own identity".  Use Markdown format. Use English.

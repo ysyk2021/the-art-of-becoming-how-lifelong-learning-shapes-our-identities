@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of lifelong learning](chapter-1-1.md)
-  - [Overview of the book's contents](chapter-1-2.md)
 - [Chapter 2: Understanding Lifelong Learning](chapter-2.md)
   - [Definition of lifelong learning](chapter-2-1.md)
   - [Common misconceptions about lifelong learning](chapter-2-2.md)

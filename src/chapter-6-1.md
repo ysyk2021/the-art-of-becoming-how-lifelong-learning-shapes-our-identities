@@ -1,4 +1,4 @@
-acles to Lifelong Learning
+Common obstacles to Lifelong Learning
 ================================================
 
 Lifelong learning is a valuable and transformative journey, but it is not without its challenges. In this chapter, we explore some common obstacles that individuals may encounter on their path to lifelong learning and how to overcome them.

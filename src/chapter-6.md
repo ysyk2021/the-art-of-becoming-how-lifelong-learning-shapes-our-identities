@@ -1,5 +1,3 @@
-Chapter 6: Overcoming Obstacles to Lifelong Learning
-====================================================
 
 Lifelong learning is a journey that can enrich our lives in countless ways, but it's not always easy. In this chapter, we'll explore common obstacles to lifelong learning and strategies for overcoming them. We'll also discuss tips for maintaining a lifelong learning mindset.
 

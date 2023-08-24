@@ -1,5 +1,3 @@
-Formal Education
-===========================
 
 In this chapter, we will explore the significance of formal education in shaping our identities and the role it plays in our personal and professional development.
 

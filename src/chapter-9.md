@@ -1,5 +1,3 @@
-Chapter 9: The Connection Between Learning and Creativity
-=========================================================
 
 In this chapter, we will explore the relationship between learning and creativity, techniques for using learning to enhance creativity, and examples of individuals who used learning to fuel their creativity.
 

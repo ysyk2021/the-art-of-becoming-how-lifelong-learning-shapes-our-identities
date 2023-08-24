@@ -1,5 +1,3 @@
-Online Learning
-===========================
 
 In this chapter, we will explore the transformative power of online learning and how it has revolutionized lifelong learning, making education more accessible, flexible, and personalized.
 

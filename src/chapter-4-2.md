@@ -1,5 +1,3 @@
-Techniques for developing a Learning Mindset
-========================================================
 
 In this chapter, we will explore various techniques and strategies that individuals can employ to develop a learning mindset. These techniques are designed to cultivate a lifelong passion for learning and shape our identities through continuous growth and development.
 

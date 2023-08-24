@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will introduce the concept of lifelong learning and provide an overview of the book's contents.
 
